@@ -3,7 +3,7 @@
 **I build systems to make them useful, and break them to make them resilient.**  
 Security-focused software developer with an offense-informed engineering mindset.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build.+Break.+Understand.+Harden.;Secure+software+engineering;Resilient+systems+by+design;Always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build.+Break.+Understand.+Harden.;Always+learning)](https://git.io/typing-svg)
 
 ---
 

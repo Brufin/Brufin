@@ -1,6 +1,6 @@
 # Hi, I'm Brufin 👋
 
-I'm using this space as a quick snapshot of what I build, what I care about, and what I'm learning.
+Building software by day, and deconstructing systems by night. Fueled by a deep curiosity for how things are made, how they break, and how to protect them.
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+useful+tools;Learning+new+tech+every+day;Open+source+and+automation+enthusiast)](https://git.io/typing-svg)
 

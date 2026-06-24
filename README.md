@@ -1,51 +1,58 @@
 # Hi, I'm Brufin 👋
 
-**Building software by day, and deconstructing systems by night.**  
-Fueled by curiosity for how things are made, how they fail, and how to protect them.
+**I build systems to make them useful, and break them to make them resilient.**  
+Security-focused software developer with an offense-informed engineering mindset.
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+useful+systems;Breaking+things+to+understand+them;Securing+what+matters;Always+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Build.+Break.+Understand.+Harden.;Secure+software+engineering;Resilient+systems+by+design;Always+learning)](https://git.io/typing-svg)
 
 ---
 
 ## 🧭 What I do
 
-I work at the intersection of **software engineering**, **automation**, and **security mindset**.
+I work at the intersection of **software development** and **security engineering**.
 
-- 🛠️ Build practical tools and reliable workflows
-- 🔍 Analyze systems to understand weak points and failure modes
-- 🛡️ Apply secure-by-default thinking to development and operations
-- 🚀 Continuously improve delivery speed without sacrificing quality
-
----
-
-## 🧪 Current focus
-
-- Designing and shipping small, useful developer tools
-- Improving CI/CD and automation flows
-- Practicing defensive engineering and secure coding habits
-- Documenting projects and building in public
+- 🛠️ Build practical applications, backend services, and developer tooling
+- 🔍 Break assumptions through testing, analysis, and adversarial thinking
+- 🛡️ Translate failures into stronger architecture and safer defaults
+- ⚙️ Use automation to enforce quality and security, not replace engineering judgment
 
 ---
 
-## 🧰 Toolbox
+## 📜 Certifications
 
-**Languages & Scripting**  
-`JavaScript` `TypeScript` `Python` `Java`
-
-**Dev & Delivery**  
-`Git` `GitHub Actions` `Linux` `Windows`
-
-**Security & Analysis**  
-`OWASP mindset` `Threat modeling (foundational)` `Dependency hygiene` `Static analysis basics`
+- CompTIA Security+
+- CompTIA Network+
+- Microsoft Certified: Azure Fundamentals (AZ-900)
 
 ---
 
-## 🧠 Philosophy
+## 🧰 Core toolbox
 
-- **Understand first, optimize second**
-- **Break assumptions early**
-- **Automate repetitive work**
-- **Security is a design choice, not a patch**
+**Development**  
+`JavaScript` `TypeScript` `Python` `Java` `APIs` `Backend fundamentals`
+
+**Security**  
+`Secure coding` `OWASP mindset` `Threat modeling` `Dependency hygiene` `Static analysis`
+
+**Delivery & Environment**  
+`Git` `GitHub Actions` `Linux` `Windows` `CI/CD`
+
+---
+
+## 🧠 Build-Break-Harden philosophy
+
+- **Build with intent** — start simple, make it work, make it clear
+- **Break to learn** — test trust boundaries, abuse assumptions, find weak links early
+- **Harden what matters** — prioritize high-impact fixes and defense-in-depth
+- **Keep shipping** — security and delivery should accelerate each other
+
+---
+
+## 🔬 What you'll find here
+
+- Security-minded software projects
+- Experiments in system behavior, failure modes, and hardening
+- Practical notes on secure design and defensive engineering
 
 ---
 
@@ -55,4 +62,4 @@ I work at the intersection of **software engineering**, **automation**, and **se
 
 ---
 
-Thanks for stopping by — always building, always learning.
+*Always building. Always breaking. Always learning.*

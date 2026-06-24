@@ -30,37 +30,13 @@ I work at the intersection of **software engineering**, **automation**, and **se
 ## 🧰 Toolbox
 
 **Languages & Scripting**  
-`JavaScript` `TypeScript` `Python` `Bash`
+`JavaScript` `TypeScript` `Python` `Java`
 
 **Dev & Delivery**  
-`Git` `GitHub Actions` `Docker` `Linux`
+`Git` `GitHub Actions` `Linux` `Windows`
 
 **Security & Analysis**  
 `OWASP mindset` `Threat modeling (foundational)` `Dependency hygiene` `Static analysis basics`
-
-> *Replace/add technologies to match your real stack.*
-
----
-
-## 📌 Featured projects
-
-> Add your best 3–6 projects here (quality > quantity).
-
-### 1) Project Name
-One-line value proposition (what problem it solves and for whom).  
-**Tech:** `X` `Y` `Z`  
-**Highlights:** performance, reliability, security, automation, etc.  
-🔗 Repo: https://github.com/Brufin/REPO-NAME
-
-### 2) Project Name
-Short description focused on impact/results.  
-**Tech:** `X` `Y` `Z`  
-🔗 Repo: https://github.com/Brufin/REPO-NAME
-
-### 3) Project Name
-Short description with measurable outcome when possible.  
-**Tech:** `X` `Y` `Z`  
-🔗 Repo: https://github.com/Brufin/REPO-NAME
 
 ---
 
@@ -70,13 +46,6 @@ Short description with measurable outcome when possible.
 - **Break assumptions early**
 - **Automate repetitive work**
 - **Security is a design choice, not a patch**
-
----
-
-## 📈 GitHub activity
-
-![Brufin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brufin&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brufin&layout=compact&theme=tokyonight)
 
 ---
 

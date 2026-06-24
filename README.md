@@ -1,18 +1,24 @@
-## Hi there 👋
+# Hi, I'm Brufin 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+I'm using this space as a quick snapshot of what I build, what I care about, and what I'm learning.
 
-<!--
-**Brufin/Brufin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Building+useful+tools;Learning+new+tech+every+day;Open+source+and+automation+enthusiast)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+### About me
+- 🔭 I’m currently working on **profile README improvements** and future projects.
+- 🌱 I’m currently learning **new tools, workflows, and ways to ship faster**.
+- 💬 Ask me about **GitHub profile READMEs, automation, and practical dev tooling**.
+- ⚡ Fun fact: **this README is the first step toward a more polished profile**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I’m interested in
+- Clean developer experiences
+- Automation and workflows
+- Useful small tools
+- Building in public
+
+### Find me here
+- GitHub: https://github.com/Brufin
+
+---
+
+Thanks for stopping by!

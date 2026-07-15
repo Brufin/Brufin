@@ -86,7 +86,7 @@ Finally, I created inbound network security rules to allow traffic on ports 1515
 
 Once the rules were created, I checked the Wazuh manager and the agent was being manager
 
-![Agent_on_Wazuh](projects\SIEM_Pipeline_Lab\img\Agent_on_Wazuh.png)
+![Agent_on_Wazuh](https://raw.githubusercontent.com/Brufin/Brufin/refs/heads/main/projects/SIEM_Pipeline_Lab/img/Agent_on_Wazuh.png)
 
 ### Configure Agent
 

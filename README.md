@@ -39,27 +39,10 @@ I work at the intersection of **software development** and **security engineerin
 
 ---
 
-## 🧠 Build-Break-Harden philosophy
-
-- **Build with intent** — start simple, make it work, make it clear
-- **Break to learn** — test trust boundaries, abuse assumptions, find weak links early
-- **Harden what matters** — prioritize high-impact fixes and defense-in-depth
-- **Keep shipping** — security and delivery should accelerate each other
-
----
-
-## 🔬 What you'll find here
-
-- Security-minded software projects
-- Experiments in system behavior, failure modes, and hardening
-- Practical notes on secure design and defensive engineering
-
----
-
 ## 🤝 Connect
 
 - GitHub: https://github.com/Brufin
 
 ---
 
-*Always building. Always breaking. Always learning.*
+_Always building. Always breaking. Always learning._

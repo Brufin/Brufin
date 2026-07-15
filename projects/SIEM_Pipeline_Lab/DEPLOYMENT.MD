@@ -43,7 +43,7 @@ curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-i
 
 After the installation completed, the Wazuh installer generated the credentials required to access the web portal. Since only port 22 was open for SSH access, I added an inbound network security rule to allow HTTPS traffic to the server. After updating the rule, I was able to reach the Wazuh web interface and sign in with the provided credentials.
 
-![Wazuh_Dashboard.png](projects\SIEM_Pipeline_Lab\img\Wazuh_Dashboard.png)
+![Wazuh_Dashboard.png](projects/SIEM_Pipeline_Lab/img/Agent_on_Wazuh.png)
 
 ### Endpoint Deployment
 

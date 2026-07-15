@@ -13,10 +13,9 @@ The goal of this project is to understand the core structure of SOC environments
 - `README.md`: Main project overview, purpose, architecture, and key takeaways.
 - `ARCHITECTURE.md`: High-level view of the lab design and data flow.
 - `DEPLOYMENT.md`: Setup steps for the endpoint, SIEM server, and TheHive stack.
-- `TROUBLESHOOTING.md`: Issues encountered during the build and how they were resolved.
 - `DETECTION_SCENARIOS.md`: Example alerts, test cases, and detection logic.
 - `INTEGRATION.md`: How Wazuh, Shuffle, VirusTotal, and TheHive work together.
-- `SCREENSHOTS/`: Images used throughout the documentation to show proof of work.
+- `img/`: Images used throughout the documentation to show proof of work.
 - `diagrams/`: Architecture diagrams and any visual workflow references.
 
 ## Lab Environment
@@ -84,3 +83,6 @@ This diagram provides a very high-level view of the architecture and shows the m
 ## SOC Relevance
 
 This project reflects the kind of workflow a SOC analyst works with every day: monitoring endpoint activity, identifying suspicious behavior, validating alerts, and gathering enough context to decide whether an event should be escalated. It also shows the value of automation and enrichment in reducing noise and helping analysts triage incidents faster and with more confidence.
+
+
+## Future plans: Add INTEGRATION.md and a diagrams/ directory to document integrations and provide visual architecture/workflow references.

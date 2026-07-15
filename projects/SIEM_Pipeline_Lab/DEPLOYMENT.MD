@@ -43,7 +43,7 @@ curl -sO https://packages.wazuh.com/4.14/wazuh-install.sh && sudo bash ./wazuh-i
 
 After the installation completed, the Wazuh installer generated the credentials required to access the web portal. Since only port 22 was open for SSH access, I added an inbound network security rule to allow HTTPS traffic to the server. After updating the rule, I was able to reach the Wazuh web interface and sign in with the provided credentials.
 
-![Wazuh_Dashboard.png](projects/SIEM_Pipeline_Lab/img/Agent_on_Wazuh.png)
+![Wazuh_Dashboard.png](https://raw.githubusercontent.com/Brufin/Brufin/refs/heads/main/projects/SIEM_Pipeline_Lab/img/Wazuh_Dashboard.png)
 
 ### Endpoint Deployment
 
@@ -101,7 +101,7 @@ The Wazuh manager was monitoring and logging events from the endpoint, but it wa
 
 After saving the configuration changes, I restarted the Wazuh service on the host for the updates to take effect. I headed to the Wazuh web page, navigated to "Discover" and verified that the Wazuh manager was collecting Sysmon telemetry.
 
-![Sysmon_Event_Wazuh](projects\SIEM_Pipeline_Lab\img\Sysmon_Event_Wazuh.png)
+![Sysmon_Event_Wazuh](https://raw.githubusercontent.com/Brufin/Brufin/refs/heads/main/projects/SIEM_Pipeline_Lab/img/Sysmon_Event_Wazuh.png)
 
 ### TheHive Deployment
 
@@ -183,4 +183,4 @@ TheHive was then configured in `/etc/thehive/application.conf`. The following se
 
 Lastly, I allowed inbound TCP traffic on port 9000 so the application could be accessed externally.
 
-![TheHive](projects\SIEM_Pipeline_Lab\img\TheHive_Login.png)
+![TheHive](https://raw.githubusercontent.com/Brufin/Brufin/refs/heads/main/projects/SIEM_Pipeline_Lab/img/TheHive_Login.png)

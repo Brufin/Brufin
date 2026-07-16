@@ -1,22 +1,3 @@
-### TheHive Configuration
-
-TheHive configuration was completed in `/etc/thehive/application.conf`.
-
-Key settings included:
-
-- Cassandra host address
-- Cassandra cluster name
-- Elasticsearch host address
-- `application.baseUrl`
-
-### Service Ownership
-
-Permissions were updated so that the `thehive` user owned the relevant application directory.
-
-```bash
-chown -R thehive:thehive /opt/thp/thehive
-```
-
 ## Prerequisites
 
 Before setting up this lab, it helps to have a basic understanding of Windows and Linux administration, virtual machines, and cloud-hosted servers. Familiarity with networking concepts such as IP addressing, firewall rules, and service exposure is also useful, since the lab requires configuring communication between the endpoint, SIEM, and incident response systems.
